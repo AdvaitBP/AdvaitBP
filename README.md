@@ -23,8 +23,6 @@ Most of my work turns messy, real-world inputs (documents, maps, sensors) into t
   Repo: `air-quality-forecasting`
 - **Met coal sentiment vs. prices** · scraper → sentiment → simple regressions and caveats.  
   Repo: `met-coal-sentiment`
-- **Cervical-imaging curation** · Mongo schema, validation, and de-dup checks with sample JSON.  
-  Repo: `cervical-imaging-mongo-curation`
 
 > I keep repos small, runnable, and honest about limits. If something requires private data, I publish a clear, reproducible slice with synthetic or public samples.
 
