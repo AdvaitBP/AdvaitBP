@@ -7,7 +7,7 @@ Most of my work turns messy, real-world inputs (documents, maps, sensors) into t
 - Looking for Summer ’25 internships in data/ML/SWE  
 - Based in Durham, NC • open to remote
 
-## What I’m building now
+## What I've recently worked on
 - **County solar-ordinance pipeline → map.** Scrape + OCR public documents, classify them, load to Postgres, and serve a Leaflet map for analysts. Built so non-engineers can run a county in minutes.
 - **Protected-area impact on deforestation.** Clean spatial layers (Hansen, WDPA, GPWv4, OSM), do matching/ATT, and report effect sizes with proper balance checks.
 - **Coastal marsh remote sensing.** Small, reproducible subset of our SatMAE/DINO/ViT experiments; tiling, training, and error analysis you can actually run.
