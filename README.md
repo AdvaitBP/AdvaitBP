@@ -18,7 +18,7 @@ Most of my work turns messy, real-world inputs (documents, maps, sensors) into t
 - **Ghost Forests Story Map** · snippet of analysis conducted and final storymap  
   Repo: `ghost-forest-management`
 - **Air quality forecasting** · API ingestion → SQL store → TF/PyTorch models with alerts.  
-  Repo: `air-quality-forecasting`
+  Repo: `air-pollution-anomaly-detection`
   
 > I keep repos small, runnable, and honest about limits. If something requires private data, I publish a clear, reproducible slice with synthetic or public samples.
 
