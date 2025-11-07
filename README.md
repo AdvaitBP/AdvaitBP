@@ -17,8 +17,8 @@ Most of my work turns messy, real-world inputs (documents, maps, sensors) into t
   Repo: `strata-ordinances-pipeline` (sanitized public version)
 - **Causal impact of protected areas** · matching, randomization inference, ATT with clear assumptions.  
   Repo: `deforestation-causal-inference`
-- **Spartina remote sensing** · lightweight subset of our models and evaluation figures.  
-  Repo: `spartina-remote-sensing`
+- **Ghost Forests Story Map** · snippet of analysis conducted and final storymap  
+  Repo: `ghost-forest-management`
 - **Air quality forecasting** · API ingestion → SQL store → TF/PyTorch models with alerts.  
   Repo: `air-quality-forecasting`
 - **Met coal sentiment vs. prices** · scraper → sentiment → simple regressions and caveats.  
