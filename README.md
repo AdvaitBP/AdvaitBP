@@ -13,17 +13,13 @@ Most of my work turns messy, real-world inputs (documents, maps, sensors) into t
 - **Coastal marsh remote sensing.** Small, reproducible subset of our SatMAE/DINO/ViT experiments; tiling, training, and error analysis
 
 ## Selected projects
-- **Strata ordinances → Postgres → Flask/Leaflet** · end-to-end ETL, restartable jobs, small demo dataset.  
-  Repo: `strata-ordinances-pipeline` (sanitized public version)
 - **Causal impact of protected areas** · matching, randomization inference, ATT with clear assumptions.  
   Repo: `deforestation-causal-inference`
 - **Ghost Forests Story Map** · snippet of analysis conducted and final storymap  
   Repo: `ghost-forest-management`
 - **Air quality forecasting** · API ingestion → SQL store → TF/PyTorch models with alerts.  
   Repo: `air-quality-forecasting`
-- **Met coal sentiment vs. prices** · scraper → sentiment → simple regressions and caveats.  
-  Repo: `met-coal-sentiment`
-
+  
 > I keep repos small, runnable, and honest about limits. If something requires private data, I publish a clear, reproducible slice with synthetic or public samples.
 
 ## How I work
