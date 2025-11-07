@@ -4,8 +4,8 @@ I like building useful things with data—especially when the outcome touches la
 Most of my work turns messy, real-world inputs (documents, maps, sensors) into tools that help people decide faster and better.
 
 - Duke University ’27 — Math & CS, minor in Environmental Science  
-- Looking for Summer ’25 internships in data/ML/SWE  
-- Based in Durham, NC • open to remote
+- Looking for Summer ’26 internships in data/ML/SWE  
+- Based in Durham, NC • open to remote or relocating
 
 ## What I've recently worked on
 - **County solar-ordinance pipeline → map.** Scrape + OCR public documents, classify them, load to Postgres, and serve a Leaflet map for analysts. Built so non-engineers can run a county in minutes.
