@@ -4,7 +4,6 @@ I like building useful things with data—especially when the outcome touches la
 Most of my work turns messy, real-world inputs (documents, maps, sensors) into tools that help people decide faster and better.
 
 - Duke University ’27 — Math & CS, minor in Environmental Science  
-- Looking for Summer ’26 internships in data/ML/SWE  
 - Based in Durham, NC • open to remote or relocating
 
 ## What I've recently worked on
@@ -19,17 +18,8 @@ Most of my work turns messy, real-world inputs (documents, maps, sensors) into t
   Repo: `ghost-forest-management`
 - **Air quality forecasting** · API ingestion → SQL store → TF/PyTorch models with alerts.  
   Repo: `air-pollution-anomaly-detection`
-  
-> I keep repos small, runnable, and honest about limits. If something requires private data, I publish a clear, reproducible slice with synthetic or public samples.
-
-## How I work
-- Python first (Pandas/NumPy/PyTorch/TensorFlow), Postgres/Mongo when it helps, and simple web backends (Flask/FastAPI) to put results in front of people.
-- Maps when the question is spatial; tests and small CI so things don’t break on a Tuesday.
-- Bias toward shipping: a working demo beats a perfect diagram.
 
 ## Contact
 - **Email:** advait.bhaskarpandit@duke.edu  
 - **LinkedIn:** /in/advait-bhaskarpandit  
 - **GitHub:** @AdvaitBP
-
-_If you’re building climate, conservation, or public-health tech and need someone who can take a problem from “we have some data” to “here’s the tool,” I’d love to talk._
