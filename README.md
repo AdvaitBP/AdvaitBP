@@ -1,6 +1,6 @@
 # Hi, I’m Advait
 
-I like building useful things with data—especially when the outcome touches land, water, or energy.  
+I like building useful things with data and AI, when the outcome touches energy, or the environment.  
 Most of my work turns messy, real-world inputs (documents, maps, sensors) into tools that help people decide faster and better.
 
 - Duke University ’27 — Math & CS, minor in Environmental Science  
